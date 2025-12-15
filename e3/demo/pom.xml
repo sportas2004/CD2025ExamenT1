@@ -41,6 +41,16 @@
           <version>3.0.2</version>
         </plugin>
         <plugin>
+            <groupId>org.example</groupId> <!-- O el groupId correcto -->
+            <artifactId>maven-checklist-plugin</artifactId> <!-- O el artifactId correcto -->
+            <version>1.0.0</version> <!-- O la versión que tengas -->
+            <configuration>
+                <!-- ... tu configuración ... -->
+            </configuration>
+        </plugin>
+        <!-- ... otros plugins ... -->
+    </plugins>
+        <plugin>
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.8.0</version>
         </plugin>
