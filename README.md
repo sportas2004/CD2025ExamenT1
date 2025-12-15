@@ -1,1 +1,1 @@
-# Sergio Portas Arcos, Kotlin esta en la rama master
+# Sergio Portas Arcos
